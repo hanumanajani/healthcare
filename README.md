@@ -65,6 +65,6 @@ npm run dev
 
 ## Contact
 
-Hanumana Ram
-Email: hanumanaram2120@gmail.com
-GitHub: https://github.com/hanumanajani
+- Hanumana Ram
+- Email: hanumanaram2120@gmail.com
+- GitHub: https://github.com/hanumanajani
