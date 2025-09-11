@@ -39,12 +39,13 @@
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used  
 
-- **Frontend:** React.js, Tailwind CSS, DaisyUI  
-- **Backend & Database:** Firebase (Realtime Database & Authentication)  
-- **Version Control:** Git & GitHub  
-- **Tools:** VSCode, Git Bash  
+![Frontend](https://img.shields.io/badge/Frontend-React.js_|_TailwindCSS_|_DaisyUI-blue?logo=react&logoColor=white)  
+![Backend](https://img.shields.io/badge/Backend-Firebase_(Realtime_DB_+_Auth)-orange?logo=firebase&logoColor=white)  
+![Version Control](https://img.shields.io/badge/Version_Control-Git_|_GitHub-red?logo=git&logoColor=white)  
+![Tools](https://img.shields.io/badge/Tools-VSCode_|_GitBash-green?logo=visualstudiocode&logoColor=white)  
+ 
 
 ---
 
