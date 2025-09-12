@@ -5,19 +5,22 @@
 
 **DoctorBuddy** is a comprehensive healthcare management web application designed for doctors and patients. It enables doctors to efficiently manage patient records, treatments, and medical history while providing patients with a smooth, user-friendly interface to view their health information.
 
----
+## 🛠️ Technologies Used  
 
-## Table of Contents
+![Frontend](https://img.shields.io/badge/Frontend-React.js_|_TailwindCSS_|_DaisyUI-blue?logo=react&logoColor=white)  
+![Backend](https://img.shields.io/badge/Backend-Firebase_(Realtime_DB_+_Auth)-orange?logo=firebase&logoColor=white)  
+![Version Control](https://img.shields.io/badge/Version_Control-Git_|_GitHub-red?logo=git&logoColor=white)  
+![Tools](https://img.shields.io/badge/Tools-VSCode_|_GitBash-green?logo=visualstudiocode&logoColor=white)  
+ 
+## 📸 Demo  ➡️ **Click the image below to watch the demo video**
 
-- [Features](#features)  
-- [Technologies Used](#technologies-used)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
+<a href="https://drive.google.com/file/d/1Hzad7xqftcGghEKFpWlphsb_kpuH05hP/view?usp=sharing" target="_blank">
+  <img src="https://drive.google.com/uc?export=view&id=1yu1a7tyAz8uEXS2OfxriqxUkX-5tA4OR" 
+       alt="▶️ Watch the demo video" width="500"/>
+</a>
 
----
+
+
 
 ## Features
 
@@ -39,15 +42,6 @@
 
 ---
 
-## 🛠️ Technologies Used  
-
-![Frontend](https://img.shields.io/badge/Frontend-React.js_|_TailwindCSS_|_DaisyUI-blue?logo=react&logoColor=white)  
-![Backend](https://img.shields.io/badge/Backend-Firebase_(Realtime_DB_+_Auth)-orange?logo=firebase&logoColor=white)  
-![Version Control](https://img.shields.io/badge/Version_Control-Git_|_GitHub-red?logo=git&logoColor=white)  
-![Tools](https://img.shields.io/badge/Tools-VSCode_|_GitBash-green?logo=visualstudiocode&logoColor=white)  
- 
-
----
 
 ## Installation
 
